@@ -3,6 +3,8 @@
 A modern, responsive dashboard UI built using **React**, **Vite**, and **Tailwind CSS**.  
 The project focuses on clean UI, component reusability, and scalable file structure.
 
+Deployed Live at :- https://frontend-dashboard-livid.vercel.app/
+
 ---
 
 ## 🚀 Tech Stack
